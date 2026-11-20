@@ -34,9 +34,14 @@ Run:
 
     ps aux
 
-### Screenshot
+### Screen shot
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ef4f5c29-7883-4fa9-8cd3-1c268b7e159a" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c9ffc38d-9aa3-4de7-8bf2-081451de9884" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cc099d04-3177-48ca-8402-dba681342f79" />
+<img width="850" height="333" alt="image" src="https://github.com/user-attachments/assets/1dfa22ce-ac97-444a-a052-7a16d07ad832" />
 
-(Add screenshot here)
+
+
 
 ### Questions
 
