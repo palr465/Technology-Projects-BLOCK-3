@@ -46,8 +46,10 @@ Run:
 ### Questions
 
 1.  Which processes are running as `root`?
-2.  Why can processes running as root be dangerous?
-3.  What could happen if a malicious program ran with root privileges?
+2.  <img width="812" height="927" alt="image" src="https://github.com/user-attachments/assets/68b54b1d-7421-4532-84d4-a9aec87825b1" />
+
+3.  Why can processes running as root be dangerous?
+4.  What could happen if a malicious program ran with root privileges?
 
 ### Reflection
 
